@@ -1,6 +1,8 @@
 # chaitin_ip_intelligence
 chaitin_ip_intelligence项目解决的问题：企业安全运营团队可有效获取互联网IP资产是否失陷且有对外攻击的情况。
 
+chaitin_ip_intelligence项目：https://github.com/xiangpasama/chaitin_ip_intelligence
+
 官网：https://rivers.chaitin.cn/ip-intelligence
 
 测试环境：windows 10，python 3.11

@@ -1,5 +1,5 @@
 # chaitin_ip_intelligence
-chaitin_ip_intelligence
+chaitin_ip_intelligence项目解决的问题：企业安全运营团队可了解互联网IP资产是否失陷且有对外攻击的行为。
 
 测试环境：windows 10，python 3.11
 
